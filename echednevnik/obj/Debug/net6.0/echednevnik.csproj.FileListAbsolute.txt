@@ -1,0 +1,14 @@
+C:\Users\20065\source\repos\echednevnik\echednevnik\bin\Debug\net6.0\echednevnik.exe
+C:\Users\20065\source\repos\echednevnik\echednevnik\bin\Debug\net6.0\echednevnik.deps.json
+C:\Users\20065\source\repos\echednevnik\echednevnik\bin\Debug\net6.0\echednevnik.runtimeconfig.json
+C:\Users\20065\source\repos\echednevnik\echednevnik\bin\Debug\net6.0\echednevnik.dll
+C:\Users\20065\source\repos\echednevnik\echednevnik\bin\Debug\net6.0\echednevnik.pdb
+C:\Users\20065\source\repos\echednevnik\echednevnik\obj\Debug\net6.0\echednevnik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20065\source\repos\echednevnik\echednevnik\obj\Debug\net6.0\echednevnik.AssemblyInfoInputs.cache
+C:\Users\20065\source\repos\echednevnik\echednevnik\obj\Debug\net6.0\echednevnik.AssemblyInfo.cs
+C:\Users\20065\source\repos\echednevnik\echednevnik\obj\Debug\net6.0\echednevnik.csproj.CoreCompileInputs.cache
+C:\Users\20065\source\repos\echednevnik\echednevnik\obj\Debug\net6.0\echednevnik.dll
+C:\Users\20065\source\repos\echednevnik\echednevnik\obj\Debug\net6.0\refint\echednevnik.dll
+C:\Users\20065\source\repos\echednevnik\echednevnik\obj\Debug\net6.0\echednevnik.pdb
+C:\Users\20065\source\repos\echednevnik\echednevnik\obj\Debug\net6.0\echednevnik.genruntimeconfig.cache
+C:\Users\20065\source\repos\echednevnik\echednevnik\obj\Debug\net6.0\ref\echednevnik.dll
